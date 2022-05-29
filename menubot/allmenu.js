@@ -1,8 +1,8 @@
 const menunya = (prefix) => {
 return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ──────────────────
-◈ _Nama Owner : ${NamaOwner}_
-◈ _Nomor Owner : ${NomorOwner}_
+◈ _Nama Owner : ${Irfaan Official}_
+◈ _Nomor Owner : ${6281646829895}_
 ️ YT : Zeil Botz JANGAN LUPA SUBSCRIBE ️
 ️ NOMOR : 081376900646 HEMAT JAN LUPA️S
 〽️ IG : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
